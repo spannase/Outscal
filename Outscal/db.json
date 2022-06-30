@@ -1,0 +1,138 @@
+{
+    "products": [
+        {
+            "_id": "627f36f6ac3181286312e0b1",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010845293-Pink-Pink-1000010845293_01-2100.jpg",
+            "title": "CODE Women Striped V-neck Top",
+            "description": "This top is defined by a striped design on the surface, along with a V-neck, a sleeveless design, and a straight hem.",
+            "price": 1000
+        },
+        {
+            "_id": "627f37dbac3181286312e0b2",
+            "image": "https://lmsin.net/cdn-cgi/image/h=493,w=333,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010443583-White-OffWhite-1000010443583_01-2100.jpg",
+            "title": "GINGER Women Striped Jumpsuit   ",
+            "description": "Tailored with elegance, this jumpsuit is tailored with a striped pattern, sleeveless structure and spaghetti neckline.",
+            "price": 1200
+        },
+        {
+            "_id": "627f7baaac3181286312e0b3",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010422877-Black-Black-1000010422877_01-2100.jpg",
+            "title": "LATIN QUARTERS Women Shimmery Sheath Dress",
+            "description": "Defined with a shimmering detail on the surface, this sheath dress features a notch neck, cap sleeves and a mini silhouette. Sheath type, Textured design, Notched Neck",
+            "price": 20
+        },
+        {
+            "_id": "627f7ca1ac3181286312e0b4",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010444516-Grey-Sage-1000010444516_01-2100.jpg",
+            "title": "GINGER Women Solid Round Neck Top  ",
+            "description": "This top is defined by a solid surface, along with flared sleeves and a round neck. Round Neck",
+            "price": 11
+        },
+        {
+            "_id": "627f7ec5ac3181286312e0b5",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010412059-Blue-Navy-1000010412059_01-2100.jpg",
+            "title": "ALLEN SOLLY Women Solid Sleeveless Shirt Dress  ",
+            "description": "Defined by a solid hue, this shirt dress features an straight silhouette. It is complemented with a fabric belt, a spread collar and a buttoned placket.",
+            "price": 112
+        },
+        {
+            "_id": "627f801fac3181286312e0b6",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010652810-White-1000010652810_01-2100.jpg",
+            "title": "Men Striped Regular Fit U.S  Polo T-shirt",
+            "description": "Enhance your basics with this striped T-shirt designed with a polo collar and half-sleeves. Striped Design, Regular length, Cotton Fabric",
+            "price": 7
+        },
+        {
+            "_id": "627f80f0ac3181286312e0b7",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010437122-Green-1000010437122_01-2100.jpg",
+            "title": "KAPPA Men Printed Full Sleeves T-shirt ",
+            "description": "Up your style quotient with this printed t-shirt which has a crew neck , Sports-style and long sleeves.",
+            "price": 23
+        },
+        {
+            "_id": "627f81bdac3181286312e0b8",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000010405959-Blue-1000010405959_01-2100.jpg",
+            "title": "FORCA Men Checked Regular Fit Casual Shirt ",
+            "description": "An authentic upgrade to your everyday wardrobe, this casual shirt is designed with bold checks, spread collar, patch pocket and full sleeves.",
+            "price": 18
+        },
+        {
+            "_id": "627f827eac3181286312e0b9",
+            "image": "https://lmsin.net/cdn-cgi/image/h=831,w=615,q=60,fit=cover/https://aaeff43fe32172cbcecc-ae2a4e9a8cbc330ede5588dedf56886e.lmsin.net/lifestyle/1000011177616-Grey-LightGrey-1000011177616_01-2100.jpg",
+            "title": "KAPPA Men Printed Regular Fit Hooded T-shirt ",
+            "description": "Add versatility to your basic look with this casual printed T-shirt designed with a hooded neckline and full sleeves. Type-Hooded",
+            "price": 20
+        },
+        {
+            "_id": "627f85bbac3181286312e0ba",
+            "image": "https://m.media-amazon.com/images/I/51HBom8xz7L._SX425_.jpg",
+            "title": "boAt Airdopes 141 True Wireless Earbuds ",
+            "description": "Playback- Enjoy an extended break on weekends with your favourite episodes on stream, virtue of a playback time of up to 42 hours including the 6 hours nonstop playtime for earbuds.",
+            "price": 18
+        },
+        {
+            "_id": "627f86c7ac3181286312e0bb",
+            "image": "https://m.media-amazon.com/images/I/719tm7l723L._SY741_.jpg",
+            "title": "realme narzo 30 5G (6GB RAM, 128GB Storage)  ",
+            "description": "6 GB RAM , 128 GB ROM , Expandable Upto 1 TB, 16.51 cm (6.5 inch) Full HD+ Display, 48MP + 2MP + 2MP, 16MP Front Camera 5000 mAh Battery",
+            "price": 58
+        },
+        {
+            "_id": "627f95b2ac3181286312e0bc",
+            "image": "https://m.media-amazon.com/images/I/61vtLhO6fDL._SY679_.jpg",
+            "title": "Apple 20W USB-C Power Adapter (iPhone, iPad & AirPods)",
+            "description": "The Apple 20W USB-C Power Adapter offers fast, efficient charging at home, in the office, or on the go.",
+            "price": 10
+        },
+        {
+            "_id": "627f96ceac3181286312e0bd",
+            "image": "https://images-eu.ssl-images-amazon.com/images/I/412hYHFcGjL._SX300_SY300_QL70_FMwebp_.jpg",
+            "title": "HP Pavilion Gaming AMD Ryzen 5 15.6 inches Laptop ",
+            "description": "Operating System & Pre-installed Software: Pre-loaded Windows 10 Home with lifetime validity| Microsoft Office Home & Student 2019 | Free upgrade to Windows 11 when available* . Processor: AMD Ryzen 5 5600H (up to 4.2 GHz max boost clock, 16MB L3 cache, 6 cores) | Memory: 8 GB DDR4-3200 (1 x 8 GB), Upgradable upto 16GB | Storage: 512 GB PCIe NVMe M.2 SSD",
+            "price": 130
+        },
+        {
+            "_id": "627faa8bac3181286312e0be",
+            "image": "https://m.media-amazon.com/images/I/51I15a5JNTL._UY625_.jpg",
+            "title": "ASIAN Men's Plasma-05 Running Shoes",
+            "description": "New, Breathable air mesh upper which is easily washable, perfect for all seasons - winter, summer and rainy, designed to give you the most comfortable fitting",
+            "price": 14
+        },
+        {
+            "_id": "627facabac3181286312e0bf",
+            "image": "https://m.media-amazon.com/images/I/61+nOKoI3XL._UY695_.jpg",
+            "title": "Campus Men's MAGNITE Running Shoes",
+            "description": "Sole: Rubber, Closure: Lace-Up, Shoe Width: Medium, Lifestyle: Running Shoes, Warranty Type: Manufacturer. Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoes bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner",
+            "price": 34
+        },
+        {
+            "_id": "627fadb0ac3181286312e0c0",
+            "image": "https://m.media-amazon.com/images/I/61pmIvqpXLL._UY500_.jpg",
+            "title": "ASIAN Women's Elasto-02 Shoes",
+            "description": "Sole: Ethylene Vinyl Acetate, Closure: Pull On, Heel Height: 1.2 inches, Shoe Width: Medium, Upper Features: New, Breathable knitted upper which is easily washable, perfect for all seasons - winter, summer and rainy, designed to give you the most comfortable fitting.",
+            "price": 27
+        },
+        {
+            "_id": "627fae70ac3181286312e0c1",
+            "image": "https://m.media-amazon.com/images/I/81L6VUuePaL._UY500_.jpg",
+            "title": "Campus Women's Brownie Running Shoes",
+            "description": "Care Instructions: Allow your pair of shoes to air and de-odorize at a regular basis, this also helps them retain their natural shape; use shoe bags to prevent any stains or mildew; dust any dry dirt from the surface using a clean cloth, do not use polish or shiner     ",
+            "price": 23
+        },
+        {
+            "_id": "627faf41ac3181286312e0c2",
+            "image": "https://m.media-amazon.com/images/I/81zaB-R0WgL._UX500_.jpg",
+            "title": "",
+            "description": "Crafted with fine technology and futuristic design, PUMA shoe is surely here to uplift your style and track games. Kick off on street and field in this shoe from the world’s leading and much loved sports brand, PUMA",
+            "price": 25
+        },
+        {
+            "_id": "62878b41e4adb6b874238e2d",
+            "image": "https://m.media-amazon.com/images/I/41jIgUA+8cL.jpg",
+            "title": "DSC Men's Beamer Cricket Shoes",
+            "description": "Cricket Shoe for Armatures & Recreational Players | Highly Durable | Contemporary Design| Lightweight Outsole | Toe & Heel Protection | Ventilation Holes | Superior Cushioning | Perfect Traction in GroundAll Rounder, can be used by Batsman, Bowler, Fielder & Wicket keepe",
+            "price": 18
+        }
+        
+    ]
+}
