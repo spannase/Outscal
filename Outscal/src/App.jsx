@@ -1,15 +1,18 @@
-import { MainPage } from "./components/main";
 
+import axios from 'axios'
+import { useEffect, useRef, useState } from 'react'
+import './App.css'
+import { Products } from './Components/Products'
  
- const App = () => {  
 
-  const API = `http://localhost:8080/products`;  
+function App() {
 
-  return (
-    <div className='container'>
-      <h1>Welcome to the Keydown Listening Component</h1> 
-      <MainPage/>
+  return ( 
+  <div className ="App">
+         
+         <Products/>
     </div>
-  );
-};
+  )
+
+}
 export default App
